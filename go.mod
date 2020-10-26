@@ -1,4 +1,4 @@
-module gitlab.com/riccardopomato/sendgrid-statistics-exporter
+module gitlab.com/ustiuzhanin/sendgrid-statistics-exporter
 go 1.14
 require (
 	github.com/jinzhu/now v1.1.1

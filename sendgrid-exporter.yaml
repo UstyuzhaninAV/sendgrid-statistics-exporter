@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: sendgrid-exporter
-        image: riccardopomato/sendgrid-statistics-exporter:latest
+        image: ustiuzhanin/sendgrid-statistics-exporter:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 18080

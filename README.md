@@ -3,7 +3,7 @@
 ## install
 
 ```
-docker pull riccardopomato/sendgrid-statistics-exporter
+docker pull ustiuzhanin/sendgrid-statistics-exporter
 ```
 
 ## environment
